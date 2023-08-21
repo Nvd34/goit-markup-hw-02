@@ -85,12 +85,16 @@ body{font-family: Roboto, sans-serif;
     color:#FFF;
     
         /* Button Text */
-        font-family: Roboto;
+        font-family: inherit;
         font-size: 16px;
         font-style: normal;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
+}
+.button:hover,
+.button:focus{
+    background-color: #404BBF;
 }
 .section-heder{
     color: #2E2F42;
