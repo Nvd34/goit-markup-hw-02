@@ -14,9 +14,7 @@ body{font-family: Roboto, sans-serif;
 
 }
 
-a{
-font-style: normal;
-}
+
 
 /* Header */
 .logotype{
@@ -25,7 +23,7 @@ font-style: normal;
         font-size: 18px;
         font-style: normal;
         font-weight: 700;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
@@ -38,13 +36,15 @@ font-style: normal;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
+.address-class{
+    font-style: normal;
+}
 .address-list-item{
     color: #434455;
     
         /* Body  */
         font-family: Roboto,sans-serif;
         font-size: 16px;
-        font-style: normal;
         font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -82,6 +82,15 @@ font-style: normal;
 }
 .button{
     background: #4D5AE5;
+    color:#FFF;
+    
+        /* Button Text */
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
 }
 .section-heder{
     color: #2E2F42;
@@ -113,6 +122,9 @@ font-style: normal;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+}
+.item-employees-list{
+    background-color: #FFFFFF;
 }
 .employees-foto{
     color: #2E2F42;
