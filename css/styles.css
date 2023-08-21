@@ -1,0 +1,180 @@
+.link{
+    text-decoration: none;
+}
+.list{
+    list-style-type: none;
+}
+button{
+    cursor: pointer;
+}
+body{font-family: Roboto, sans-serif;
+    font-style: normal;
+    color: #434455 ;
+    background: #FFF;
+
+}
+
+a{
+font-style: normal;
+}
+
+/* Header */
+.logotype{
+    color:  #4D5AE5 ;
+        font-family: Raleway, sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+}
+.menu-list{
+    color: #2E2F42;
+    
+        
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+.address-list-item{
+    color: #434455;
+    
+        /* Body  */
+        font-family: Roboto,sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+.class-span{
+    color: #2E2F42;
+}
+.link:hover,
+.link:focus{
+    color: #404BBF
+}
+
+
+/* < !-- our service --> */
+.section-out-teem{
+    background: #F4F4FD;
+}
+.title-benefits{
+    color: transparent;
+}
+.main-title{
+    color:#FFF;
+        text-align: center;
+    
+        
+        
+        font-size: 56px;
+        
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+}
+.hero{
+    background:#2E2F42;
+}
+.button{
+    background: #4D5AE5;
+}
+.section-heder{
+    color: #2E2F42;
+    
+        /* Header 3 */
+        
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+.second-section-text{
+    
+        /* Body */
+        
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+/* Our team */
+.section-team{
+    color: #2E2F42;
+        text-align: center;
+    
+        /* Header 2 */
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+}
+.employees-foto{
+    color: #2E2F42;
+        text-align: center;
+    
+        /* Header 3 */
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+.employees-text{
+        text-align: center;
+    
+        /* Body */
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+/* our portfolio */
+.section-portfolio{
+    color: #2E2F42;
+        text-align: center;
+    
+        /* Header 2 */
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+}
+.portfolio-header{
+    color: #2E2F42;
+    
+        /* Header 3 */
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+.portfolio-text{
+    
+        /* Body */
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+/* footer */
+.footer{
+    background: #2E2F42
+}
+.footer-text{
+    color: #F4F4FD;
+    
+        /* Body */
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+.class-span-footer{
+    color: #F4F4FD;
+}
