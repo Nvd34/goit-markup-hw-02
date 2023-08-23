@@ -43,7 +43,7 @@ body{font-family: Roboto, sans-serif;
     color: #434455;
     
         /* Body  */
-        font-family: Roboto,sans-serif;
+        
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
@@ -52,8 +52,8 @@ body{font-family: Roboto, sans-serif;
 .class-span{
     color: #2E2F42;
 }
-.link:hover,
-.link:focus{
+.menu:hover,
+.menu:focus{
     color: #404BBF
 }
 
